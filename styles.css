@@ -1,7 +1,7 @@
-body{
+#card-body {
 	border: 1px solid #ddd;
 	width:330px;
-    box-shadow: 0px 5px 15px 0px #eee;
+  box-shadow: 10px 10px 10px 0px #eee;
 }
 
 #name {
