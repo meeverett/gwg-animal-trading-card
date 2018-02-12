@@ -1,0 +1,42 @@
+body{
+	border: 1px solid #ddd;
+	width:330px;
+    box-shadow: 10px 8px #eee;
+}
+
+#name{
+	padding-left: 15px;
+	font-weight: bold;
+	font-size: 1.6em;
+}
+
+.image{
+	padding-left:15px;
+	padding-right:15px;
+	width: 300px;
+	height: auto;
+}
+
+.animal-info {
+	border: 1px solid #ddd;
+	margin: 15px;
+	padding-left:15px;
+	padding-right:15px;
+	width: 270px;
+}
+
+.facts-list {
+	text-decoration:none;
+	list-style:none;
+	-webkit-margin-before: 0;
+    -webkit-margin-after: 0;
+    -webkit-margin-start: 0;
+    -webkit-margin-end: 0;
+    -webkit-padding-start: 0;
+}
+
+.facts-list span {
+	font-weight:bold;
+}
+
+Test
